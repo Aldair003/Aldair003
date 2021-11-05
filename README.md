@@ -18,3 +18,15 @@ Me llamo Yahir Arroyo y estudio en la Facultad de Informática de la UAQ
 
 ## Mi waifu
 ![Foto de mi waifu](Fumino.jpg)
+
+## Mi quote favorita
+
+> Divide y vencerás
+
+## Código
+```JavaScript
+Console.log('hello world');
+```
+```Python
+print("hello world")
+```
